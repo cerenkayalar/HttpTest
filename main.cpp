@@ -18,6 +18,8 @@
 // if post is successful, post.php is created and has the link to the data
 // ==========================================================================
 
+
+// Testing Git from Qt
 int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
