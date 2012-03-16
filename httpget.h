@@ -7,7 +7,7 @@
 #include <QFileInfo>
 #include <QUrl>
 #include <iostream>
-// tada
+
 using namespace std;
 
 class HttpGet : public QObject

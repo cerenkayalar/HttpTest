@@ -18,14 +18,13 @@
 // if post is successful, post.php is created and has the link to the data
 // ==========================================================================
 
-
-// Testing Git from Qt
+// Ceren changed this file
 int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
     
     QStringList args = a.arguments();
-    if (args.count() != 2) {
+    if (args.count() != 1) {
         return 1;
     }
 
